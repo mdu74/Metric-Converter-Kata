@@ -1,0 +1,16 @@
+{
+  "name": "karma-starter-pack",
+  "version": "1.0.1",
+  "description": "Starts you off with a working Karma",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Travis Frisinger",
+  "license": "BSD-2",
+  "devDependencies": {
+    "jasmine-core": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
+}
